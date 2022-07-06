@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariele2302
 - 👀 I’m interested in study
 - 🌱 I’m currently learning pensamendto computacional
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nada
 - 📫 How to reach me mariele.manduca23@gmail.com
 
 <!---
